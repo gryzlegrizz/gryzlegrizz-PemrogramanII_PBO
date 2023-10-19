@@ -1,0 +1,7 @@
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan04\Praktikum\P4_1_714220046\P4_1_714220046\bin\Debug\P4_1_714220046.exe.config
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan04\Praktikum\P4_1_714220046\P4_1_714220046\bin\Debug\P4_1_714220046.exe
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan04\Praktikum\P4_1_714220046\P4_1_714220046\bin\Debug\P4_1_714220046.pdb
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan04\Praktikum\P4_1_714220046\P4_1_714220046\obj\Debug\P4_1_714220046.csproj.AssemblyReference.cache
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan04\Praktikum\P4_1_714220046\P4_1_714220046\obj\Debug\P4_1_714220046.csproj.CoreCompileInputs.cache
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan04\Praktikum\P4_1_714220046\P4_1_714220046\obj\Debug\P4_1_714220046.exe
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan04\Praktikum\P4_1_714220046\P4_1_714220046\obj\Debug\P4_1_714220046.pdb

@@ -1,0 +1,8 @@
+BAGIAN I
+14. Pesan kesalahan muncul karena variabel `myType` pada class `Product_714220046` memiliki modifier akses `protected` yang berarti variabel tersebut hanya dapat diakses oleh class yang mendefinisikannya dan class turunannya. class `ProductTest_714220046` bukanlah turunan dari `Product_714220046` sehingga tidak dapat mengakses variabel `myType`.
+
+Untuk memperbaikinya, modifier akses `protected` harus diubah menjadi `public` pada variabel `myType` atau menggunakan property untuk mengaksesnya
+
+19. Hanya null atau kosong karena property `MyType` tidak diatur dalam constructor
+
+24. Menghasilkan output DVD karena property `MyType` sudah diatur dengan string "DVD"

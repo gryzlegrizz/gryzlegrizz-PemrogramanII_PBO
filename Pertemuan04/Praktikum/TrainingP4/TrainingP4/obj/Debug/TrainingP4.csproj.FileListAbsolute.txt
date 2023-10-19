@@ -1,0 +1,7 @@
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan03\Praktikum\TrainingP4\TrainingP4\bin\Debug\TrainingP4.exe.config
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan03\Praktikum\TrainingP4\TrainingP4\bin\Debug\TrainingP4.exe
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan03\Praktikum\TrainingP4\TrainingP4\bin\Debug\TrainingP4.pdb
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan03\Praktikum\TrainingP4\TrainingP4\obj\Debug\TrainingP4.csproj.AssemblyReference.cache
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan03\Praktikum\TrainingP4\TrainingP4\obj\Debug\TrainingP4.csproj.CoreCompileInputs.cache
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan03\Praktikum\TrainingP4\TrainingP4\obj\Debug\TrainingP4.exe
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan03\Praktikum\TrainingP4\TrainingP4\obj\Debug\TrainingP4.pdb
