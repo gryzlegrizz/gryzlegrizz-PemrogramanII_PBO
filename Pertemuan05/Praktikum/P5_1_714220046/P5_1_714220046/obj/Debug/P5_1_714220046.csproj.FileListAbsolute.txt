@@ -1,0 +1,10 @@
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\bin\Debug\P5_1_714220046.exe.config
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\bin\Debug\P5_1_714220046.exe
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\bin\Debug\P5_1_714220046.pdb
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\obj\Debug\P5_1_714220046.csproj.AssemblyReference.cache
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\obj\Debug\P5_1_714220046.Form1.resources
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\obj\Debug\P5_1_714220046.Properties.Resources.resources
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\obj\Debug\P5_1_714220046.csproj.GenerateResource.cache
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\obj\Debug\P5_1_714220046.csproj.CoreCompileInputs.cache
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\obj\Debug\P5_1_714220046.exe
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_1_714220046\P5_1_714220046\obj\Debug\P5_1_714220046.pdb
