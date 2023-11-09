@@ -121,9 +121,9 @@ namespace P6_4_714220046
         {
             string noTelp = txtNoTelp.Text;
 
-            if (noTelp.Length >= 14)
+            if (noTelp.Length >= 14 || noTelp.Length <= 11)
             {
-                epWarning.SetError(txtNoTelp, "Nomor Telepon maksimal terdiri dari 14 karakter");
+                epWarning.SetError(txtNoTelp, "Nomor Telepon setidaknya sebanyak \n11 karakter dan tidak lebih dari 14 karakter");
                 epWrong.SetError(txtNoTelp, "");
                 epCorrect.SetError(txtNoTelp, "");
             }
@@ -158,34 +158,59 @@ namespace P6_4_714220046
             }
         }
 
+        /*private bool IsValidPhoneNumber(string phoneNumber)
+        {
+            return phoneNumber.StartsWith("08") && phoneNumber.Length >= 14 && IsInteger(phoneNumber);
+        }*/
+
+        private bool IsString(string value)
+        {
+            return !string.IsNullOrWhiteSpace(value) && value.All(char.IsLetter);
+        }
+
+        private bool IsInteger(string value)
+        {
+            return int.TryParse(value, out _);
+        }
+
+        private bool IsValidEmail(string email)
+        {
+            string pattern = @"^[\w-]+(\.[\w-]+)*@([\w-]+\.)+[a-zA-Z]{2,7}$";
+            return Regex.IsMatch(email, pattern);
+        }
+
         private void btnPesan_Click(object sender, EventArgs e)
         {
 
-            if (txtNamaDepan.Text == "")
+            if (string.IsNullOrWhiteSpace(txtNamaDepan.Text) || !IsString(txtNamaDepan.Text))
             {
-                MessageBox.Show("Nama tidak boleh kosong!",
-                "Warning!",
-                MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Nama Depan harus diisi dengan teks!",
+                    "Warning!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-            if (txtNamaBelakang.Text == "")
+
+            if (string.IsNullOrWhiteSpace(txtNamaBelakang.Text) || !IsString(txtNamaBelakang.Text))
             {
-                MessageBox.Show("Nama tidak boleh kosong!",
-                "Warning!",
-                MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Nama Belakang harus diisi dengan teks!",
+                    "Warning!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-            if (txtNoTelp.Text == "") {
-                MessageBox.Show("No Telpon tidak boleh kosong!",
-                "Warning!",
-                MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+            if (string.IsNullOrWhiteSpace(txtNoTelp.Text))
+            {
+                MessageBox.Show("No Telepon harus diisi dengan angka yang diawali dengan '08' dan memiliki panjang antara 11 hingga 14 karakter!",
+                    "Warning!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-            if (txtEmail.Text == "")
+
+            if (string.IsNullOrWhiteSpace(txtEmail.Text) || !IsValidEmail(txtEmail.Text))
             {
-                MessageBox.Show("Email tidak boleh kosong!",
-                "Warning!",
-                MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Email tidak sesuai format!",
+                    "Warning!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
