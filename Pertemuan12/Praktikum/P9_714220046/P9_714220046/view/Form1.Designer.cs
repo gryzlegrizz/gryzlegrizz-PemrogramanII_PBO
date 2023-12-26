@@ -49,8 +49,8 @@
             this.btnSimpan = new System.Windows.Forms.Button();
             this.btnRefresh = new System.Windows.Forms.Button();
             this.gbSearch = new System.Windows.Forms.GroupBox();
-            this.label7 = new System.Windows.Forms.Label();
             this.tbCariData = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.gbTDataMhs.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataMahasiswa)).BeginInit();
             this.gbFDataMhs.SuspendLayout();
@@ -278,6 +278,14 @@
             this.gbSearch.TabStop = false;
             this.gbSearch.Text = "Form Pencarian";
             // 
+            // tbCariData
+            // 
+            this.tbCariData.Location = new System.Drawing.Point(76, 40);
+            this.tbCariData.Name = "tbCariData";
+            this.tbCariData.Size = new System.Drawing.Size(279, 22);
+            this.tbCariData.TabIndex = 1;
+            this.tbCariData.TextChanged += new System.EventHandler(this.tbCariData_TextChanged);
+            // 
             // label7
             // 
             this.label7.AutoSize = true;
@@ -286,14 +294,6 @@
             this.label7.Size = new System.Drawing.Size(63, 16);
             this.label7.TabIndex = 0;
             this.label7.Text = "Cari Data";
-            // 
-            // tbCariData
-            // 
-            this.tbCariData.Location = new System.Drawing.Point(76, 40);
-            this.tbCariData.Name = "tbCariData";
-            this.tbCariData.Size = new System.Drawing.Size(279, 22);
-            this.tbCariData.TabIndex = 1;
-            this.tbCariData.TextChanged += new System.EventHandler(this.tbCariData_TextChanged);
             // 
             // Form1
             // 

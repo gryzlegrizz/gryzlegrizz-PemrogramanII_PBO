@@ -126,3 +126,5 @@ D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO
 D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220046\P9_714220046\obj\Debug\P9_714220046.pdb
 D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220046\P9_714220046\obj\Debug\P9_714220046.view.ParentForm.resources
 D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220046\P9_714220046\obj\Debug\P9_714220046.view.FormNilai.resources
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220046\P9_714220046\obj\Debug\P9_714220046.view.FormBarang.resources
+D:\CAMPUS\KULIAH\Smest. 3\PBO (Pemrogramman Berbasis Objek) II\PemrogramanII_PBO\Pertemuan12\Praktikum\P9_714220046\P9_714220046\obj\Debug\P9_714220046.view.FormTransaksiBarang.resources

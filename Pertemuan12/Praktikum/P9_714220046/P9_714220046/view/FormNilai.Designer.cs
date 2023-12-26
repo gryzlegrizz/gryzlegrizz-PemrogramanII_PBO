@@ -41,13 +41,13 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.gbFDataMhs = new System.Windows.Forms.GroupBox();
+            this.tbnama = new System.Windows.Forms.TextBox();
             this.tbnilai = new System.Windows.Forms.TextBox();
             this.cbmatkul = new System.Windows.Forms.ComboBox();
             this.cbkategori = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.dataNilai = new System.Windows.Forms.DataGridView();
             this.gbTDataMhs = new System.Windows.Forms.GroupBox();
-            this.tbnama = new System.Windows.Forms.TextBox();
             this.gbSearch.SuspendLayout();
             this.gbActBtn.SuspendLayout();
             this.gbFDataMhs.SuspendLayout();
@@ -197,6 +197,13 @@
             this.gbFDataMhs.TabStop = false;
             this.gbFDataMhs.Text = "Form Input Nilai";
             // 
+            // tbnama
+            // 
+            this.tbnama.Location = new System.Drawing.Point(79, 199);
+            this.tbnama.Name = "tbnama";
+            this.tbnama.Size = new System.Drawing.Size(467, 22);
+            this.tbnama.TabIndex = 8;
+            // 
             // tbnilai
             // 
             this.tbnilai.Location = new System.Drawing.Point(79, 238);
@@ -268,13 +275,6 @@
             this.gbTDataMhs.TabStop = false;
             this.gbTDataMhs.Text = "Tabel Data Mahasiswa";
             // 
-            // tbnama
-            // 
-            this.tbnama.Location = new System.Drawing.Point(79, 199);
-            this.tbnama.Name = "tbnama";
-            this.tbnama.Size = new System.Drawing.Size(467, 22);
-            this.tbnama.TabIndex = 8;
-            // 
             // FormNilai
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -285,7 +285,7 @@
             this.Controls.Add(this.gbFDataMhs);
             this.Controls.Add(this.gbTDataMhs);
             this.Name = "FormNilai";
-            this.Text = "FormNilai";
+            this.Text = "Form Nilai";
             this.Load += new System.EventHandler(this.FormNilai_Load);
             this.gbSearch.ResumeLayout(false);
             this.gbSearch.PerformLayout();

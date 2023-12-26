@@ -139,5 +139,6 @@ namespace P9_714220046
             //Query DB search data
             dataMahasiswa.DataSource = koneksi.ShowData("SELECT * FROM t_mahasiswa WHERE npm LIKE '%' '" + tbCariData.Text + "' '%' OR nama LIKE '%' '" + tbCariData.Text + "' '%'\r\n");
         }
+
     }
 }
